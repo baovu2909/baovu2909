@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <img src="./hero.svg" width="100%" alt="Xin chào, tôi là Bảo" />
+</p>
 
-<!--
-**baovu2909/baovu2909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://portfolio-emolite.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.facebook.com/bao.vu.825261"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@QBao2005"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
 
-Here are some ideas to get you started:
+## Về mình
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Developer tập trung vào **Angular** và **TypeScript**, sinh viên UIT khoá 2026.
+
+## Kỹ năng
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,git" />
+</p>
