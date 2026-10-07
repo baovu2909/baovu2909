@@ -1,15 +1,15 @@
 <p align="center">
   <a href="https://portfolio-emolite.vercel.app/">
-     <img src="./hero.svg?v=2" width="100%" alt="Hi, I'm Bao Vu — EMOLITE" />
+    <img src="./hero.svg?v=3" width="100%" alt="Hi, I'm Bao Vu — EMOLITE" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://portfolio-emolite.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/ANM-EMOLITE"><img src="https://img.shields.io/badge/ANM--EMOLITE-8b5cf6?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.facebook.com/bao.vu.825261"><img src="https://img.shields.io/badge/Facebook-a855f7?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@QBao2005"><img src="https://img.shields.io/badge/YouTube-c026d3?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@amlwaifuraidenei"><img src="https://img.shields.io/badge/TikTok-d946ef?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://portfolio-emolite.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/ANM-EMOLITE"><img src="https://img.shields.io/badge/ANM--EMOLITE-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.facebook.com/bao.vu.825261"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@QBao2005"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@amlwaifuraidenei"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
 ## About me
