@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://portfolio-emolite.vercel.app/">
-    <img src="./hero.svg" width="100%" alt="Hi, I'm Bao Vu — EMOLITE" />
+     <img src="./hero.svg?v=2" width="100%" alt="Hi, I'm Bao Vu — EMOLITE" />
   </a>
 </p>
 
